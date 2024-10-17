@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #edf2f4;
+    color: #2b2d42;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #8d99ae;
+    font-size: 30px;
+    border-bottom: 3px solid #ef233c;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+ul li {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+a {
+    color: #d90429;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
